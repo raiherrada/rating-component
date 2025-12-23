@@ -20,7 +20,7 @@ A simple rating component created by using vanilla JavaScript and HTML/CSS.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://rating-rai.netlify.app/)
+- Live Site URL: [Rating Component Site](https://rating-rai.netlify.app/)
 
 ## My process
 
