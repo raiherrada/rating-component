@@ -16,7 +16,7 @@ A simple rating component created by using vanilla JavaScript and HTML/CSS.
 
 ### Screenshot
 
-![A screenshot of my solution](screenshots/screenshot.png)
+![A screenshot of my solution](screenshots/Screenshot.png)
 
 ### Links
 
