@@ -77,5 +77,3 @@ for (let i = 0; i < ratingButtons.length; i++){
 ## Author
 
 - Website - [Rainiero Herrada](https://www.rainieroherrada.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
